@@ -25,31 +25,41 @@ If you want to know what kind of library i dabble in,
   <tr>
     <td>TensorFlow</td>
     <td>
-      <img src="https://progress-bar.dev/80/" alt="TensorFlow">
+      <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px;">
+        <div style="width: 80%; background-color: #4CAF50; height: 20px; border-radius: 5px; text-align: center; color: white;">80%</div>
+      </div>
     </td>
   </tr>
   <tr>
     <td>PyTorch</td>
     <td>
-      <img src="https://progress-bar.dev/70/" alt="PyTorch">
+      <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px;">
+        <div style="width: 70%; background-color: #2196F3; height: 20px; border-radius: 5px; text-align: center; color: white;">70%</div>
+      </div>
     </td>
   </tr>
   <tr>
     <td>Scikit-Learn</td>
     <td>
-      <img src="https://progress-bar.dev/90/" alt="Scikit-Learn">
+      <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px;">
+        <div style="width: 90%; background-color: #f44336; height: 20px; border-radius: 5px; text-align: center; color: white;">90%</div>
+      </div>
     </td>
   </tr>
   <tr>
     <td>Keras</td>
     <td>
-      <img src="https://progress-bar.dev/75/" alt="Keras">
+      <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px;">
+        <div style="width: 75%; background-color: #9C27B0; height: 20px; border-radius: 5px; text-align: center; color: white;">75%</div>
+      </div>
     </td>
   </tr>
   <tr>
-    <td>OpenCV</td>
+    <td>GenAI/LLM's</td>
     <td>
-      <img src="https://progress-bar.dev/60/" alt="OpenCV">
+      <div style="width: 100%; background-color: #ddd; height: 20px; border-radius: 5px;">
+        <div style="width: 60%; background-color: #FF9800; height: 20px; border-radius: 5px; text-align: center; color: white;">60%</div>
+      </div>
     </td>
   </tr>
 </table>
