@@ -18,6 +18,40 @@
 
 
 
-I'm Vishwas Chandran and I'm a software developer/Machine Learning engineer. I'm from India, living in Canada and currently working as a Freelancer.
+If you want to know what kind of library i dabble in, 
+
+<h3 align="left">My Skills in ML/DL Libraries</h3>
+<table>
+  <tr>
+    <td>TensorFlow</td>
+    <td>
+      <img src="https://progress-bar.dev/80/" alt="TensorFlow">
+    </td>
+  </tr>
+  <tr>
+    <td>PyTorch</td>
+    <td>
+      <img src="https://progress-bar.dev/70/" alt="PyTorch">
+    </td>
+  </tr>
+  <tr>
+    <td>Scikit-Learn</td>
+    <td>
+      <img src="https://progress-bar.dev/90/" alt="Scikit-Learn">
+    </td>
+  </tr>
+  <tr>
+    <td>Keras</td>
+    <td>
+      <img src="https://progress-bar.dev/75/" alt="Keras">
+    </td>
+  </tr>
+  <tr>
+    <td>OpenCV</td>
+    <td>
+      <img src="https://progress-bar.dev/60/" alt="OpenCV">
+    </td>
+  </tr>
+</table>
 
 
