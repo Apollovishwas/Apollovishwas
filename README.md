@@ -18,7 +18,7 @@
 
 
 
-If you want to know what kind of library i dabble in, 
+If you want to know what kind of library I dabble in, 
 
 <h3 align="left">My Skills in ML/DL Libraries</h3>
 <table>
